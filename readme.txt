@@ -3,8 +3,7 @@
  * Email: thanhson1085@gmail.com 
  */
 
-
 TEST ONLINE Version 2.0
 Author: Thanh Son
 Developer: Thanh Son, Duc Tuan
-Testing time 2 week
+Testing time 1 week
